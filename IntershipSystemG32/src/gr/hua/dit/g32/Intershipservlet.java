@@ -15,11 +15,17 @@ import javax.servlet.http.HttpServletResponse;
 public class Intershipservlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 
+	
+
+	
+	
     /**
      * Default constructor. 
      */
     public Intershipservlet() {
         // TODO Auto-generated constructor stub
+    	
+    	
     }
 
 	/**
